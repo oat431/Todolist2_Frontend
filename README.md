@@ -2,6 +2,6 @@
 
 using Vue3 + Vite + Tailwind
 
-### Status : In progress 
+### Status : In progress : will update later
 
 &copy; Flowero Oralita Panomete
